@@ -1,0 +1,31 @@
+.container {
+    background-color: #222831;
+    color: #dddddd;
+    width: 100%;
+    box-sizing: border-box;
+    margin-bottom: 40px;
+    font-family: 'Abel', sans-serif !important;
+}
+
+.card {
+    margin: 0 1% !important;
+    box-sizing: border-box;
+    padding: 0%;
+}
+
+.infected {
+    border-bottom: 10px solid #fdffbc;
+}
+
+.recovered {
+    border-bottom: 10px solid #c6ebc9;
+}
+
+.deaths {
+    border-bottom: 10px solid #f05454;
+}
+
+.MuiPaper-root {
+    color: blue !important;
+    background: #000 !important;
+}
